@@ -19,14 +19,6 @@ A ServiceNow application that automates employee onboarding and offboarding work
 - Flow Designer
 - Dashboards
 
-## Screenshots
-
-(Add screenshots here)
-
-## Demo Video
-
-(Add video link here)
-
 ## Author
 
 Mothuku Shalini
